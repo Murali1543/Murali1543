@@ -1,4 +1,4 @@
-# netflix-landing-clone
+Checkout
 For educational purposes
 
 Day 1, 23/5/2022 : 
